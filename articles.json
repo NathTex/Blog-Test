@@ -1,16 +1,16 @@
 [
   {
-    "id": "mon-premier-article",
-    "titre": "Bienvenue sur mon blog fait main",
-    "date": "15 Mai 2026",
+    "id": "premier-article",
+    "titre": "Bienvenue sur mon blog fait à la main",
+    "date": "1 Mai 2026",
     "resume": "Aujourd'hui, j'ai décidé de tout coder moi-même sans outils compliqués.",
-    "contenu": "<p>Le HTML et le CSS sont les piliers du web. En ajoutant un peu de JS et de JSON, on peut faire des miracles !</p><p>L'avantage ? C'est ultra léger.</p>"
+    "contenu": "<p>Le tout a été codé en HTML, CSS et JS, des langages que j'avais déjà utilisé. Pour la première fois j'ai utilisé du JSON et c'est quand même très pratique !</p><p>Pourquoi faire tout ça ? Bah c'est gratuit de le faire soit même.</p>"
   },
   {
-    "id": "le-pouvoir-du-json",
-    "titre": "Pourquoi le JSON est génial",
-    "date": "18 Mai 2026",
-    "resume": "Comprendre comment structurer ses données est une compétence clé.",
-    "contenu": "<p>Le JSON permet de séparer le fond (le texte) de la forme (le design HTML/CSS).</p>"
+    "id": "site-internet",
+    "titre": "Le blog est herbé très simplement et gratuitement",
+    "date": "2 Mai 2026",
+    "resume": "J'ai utilisé GitHub pour avoir la main mise sur tout",
+    "contenu": "<p>J'avais pour l'instant vraiment jamais utilisé GitHUb, enfin peut être uen fois mais de manière très simpliste. C'est un peu compliqué mais ça permet d'avoir tous ses fichiers centralisés et surtout dans notre cas d'héberger gratuitement un site internet</p>"
   }
 ]
