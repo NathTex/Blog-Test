@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Lecture - Mon Blog</title> <!-- Titre provisoire, le JS le changera avec le titre de l'article -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav><a href="index.html">← Retour à l'accueil</a></nav> <!-- Lien crucial pour l'ergonomie -->
+    </header>
+
+    <main>
+        <article> <!-- Balise sémantique indiquant que c'est un contenu autonome -->
+            <h1 id="art-titre"></h1> <!-- Placeholder vide : le JS va injecter le titre ici -->
+            <p><em id="art-date"></em></p> <!-- Placeholder pour la date (en italique) -->
+            <hr> <!-- Une ligne horizontale de séparation -->
+            <div id="art-contenu"></div> <!-- Placeholder pour le texte complet de l'article -->
+        </article>
+    </main>
+
+    <script src="script.js"></script> <!-- Le même script JS gère les deux pages -->
+</body>
+</html>

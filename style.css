@@ -1,0 +1,38 @@
+/* Style global pour tout le document */
+body {
+    font-family: sans-serif; /* Police sans empattements pour une meilleure lisibilité écran */
+    line-height: 1.6; /* Espace entre les lignes pour ne pas fatiguer les yeux */
+    max-width: 800px; /* Empêche le texte de s'étaler trop largement (mauvais pour la lecture) */
+    margin: 40px auto; /* Centre le contenu horizontalement avec une marge en haut/bas */
+    padding: 0 20px; /* Espace de sécurité sur les côtés pour les mobiles */
+    color: #333; /* Gris très foncé (mieux que le noir pur pour le contraste) */
+}
+
+/* Style du haut de page */
+header { 
+    border-bottom: 2px solid #eee; /* Petite ligne grise discrète */
+    margin-bottom: 30px; /* Espace sous l'en-tête */
+}
+
+/* Style des titres */
+h1 { color: #2c3e50; } /* Couleur bleu-gris pro */
+
+/* Style du petit bloc d'aperçu sur la page d'accueil */
+.article-preview {
+    padding: 20px; /* Espace interne au bloc */
+    border: 1px solid #ddd; /* Bordure fine */
+    border-radius: 8px; /* Coins arrondis */
+    margin-bottom: 20px; /* Espace entre deux aperçus */
+}
+
+/* Style des liens */
+.article-preview a {
+    color: #3498db; /* Couleur bleue standard pour les liens */
+    text-decoration: none; /* Enlève le soulignement par défaut */
+    font-weight: bold; /* Met le lien en gras */
+}
+
+/* Action quand on passe la souris sur le lien */
+.article-preview a:hover { 
+    text-decoration: underline; /* Le soulignement revient au survol (indice visuel) */
+}

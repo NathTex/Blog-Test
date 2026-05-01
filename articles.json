@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mon-premier-article",
+    "titre": "Bienvenue sur mon blog fait main",
+    "date": "15 Mai 2026",
+    "resume": "Aujourd'hui, j'ai décidé de tout coder moi-même sans outils compliqués.",
+    "contenu": "<p>Le HTML et le CSS sont les piliers du web. En ajoutant un peu de JS et de JSON, on peut faire des miracles !</p><p>L'avantage ? C'est ultra léger.</p>"
+  },
+  {
+    "id": "le-pouvoir-du-json",
+    "titre": "Pourquoi le JSON est génial",
+    "date": "18 Mai 2026",
+    "resume": "Comprendre comment structurer ses données est une compétence clé.",
+    "contenu": "<p>Le JSON permet de séparer le fond (le texte) de la forme (le design HTML/CSS).</p>"
+  }
+]
